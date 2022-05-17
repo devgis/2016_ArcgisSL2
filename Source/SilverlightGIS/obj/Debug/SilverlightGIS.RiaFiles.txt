@@ -1,0 +1,2 @@
+D:\Work\2016\ArcgisSL2\SilverlightGIS33\SilverlightGIS\SilverlightGIS
+Generated_Code\SilverlightGIS.Web.g.cs

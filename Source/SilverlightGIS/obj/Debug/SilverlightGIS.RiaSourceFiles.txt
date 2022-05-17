@@ -1,0 +1,2 @@
+D:\Work\2016\ArcgisSL2\SilverlightGIS33\SilverlightGIS\SilverlightGIS.Web\SilverlightGIS.Web.csproj,635951384979771302,DBService.svc.cs,IDBService.cs,Properties\AssemblyInfo.cs,
+D:\Work\2016\ArcgisSL2\SilverlightGIS33\SilverlightGIS\SilverlightGIS.Common\SilverlightGIS.Common.csproj,635957265755968792,Info.cs,Properties\AssemblyInfo.cs,SQLHelper.cs,TrackInfo.cs,UserInfo.cs,

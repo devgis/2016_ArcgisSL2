@@ -1,0 +1,10 @@
+开发环境 
+VS2015 
+SQLServer 2008R2
+Windows 10 需要启用HYPE-V虚拟机 (虚拟WP10用)
+Arcgis Desktop10.1 +Arcgis Server 10.1
+
+DB20160408.rar 为数据库文件
+Map_20160407.rar 为地图文件
+PIC20160408.rar 为截图文件
+SilverlightGIS35.rar 源代码文件 包括手机端和PC端

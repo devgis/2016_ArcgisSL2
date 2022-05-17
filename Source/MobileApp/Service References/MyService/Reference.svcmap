@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a3b84a21-db36-4db0-8c40-a6171aad5b2e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:14001/DBService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DBService.xsd" MetadataType="Schema" ID="4f428c95-3458-4da3-8901-3187a130e8cb" SourceId="1" SourceUrl="http://localhost:14001/DBService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DBService.wsdl" MetadataType="Wsdl" ID="3dc62dbc-155c-4fa6-89f1-5911d1175ac5" SourceId="1" SourceUrl="http://localhost:14001/DBService.svc?wsdl" />
+    <MetadataFile FileName="DBService.disco" MetadataType="Disco" ID="34c39b44-f95c-427d-8864-e143979d3f07" SourceId="1" SourceUrl="http://localhost:14001/DBService.svc?disco" />
+    <MetadataFile FileName="DBService1.xsd" MetadataType="Schema" ID="6618cb1c-2676-4d39-b079-2280e29966dd" SourceId="1" SourceUrl="http://localhost:14001/DBService.svc?xsd=xsd2" />
+    <MetadataFile FileName="DBService2.xsd" MetadataType="Schema" ID="bef34208-9930-477c-b9ab-685be3d57b86" SourceId="1" SourceUrl="http://localhost:14001/DBService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

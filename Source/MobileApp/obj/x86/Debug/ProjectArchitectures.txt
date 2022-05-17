@@ -1,0 +1,1 @@
+D:\Work\2016\ArcgisSL2\SilverlightGIS33\SilverlightGIS\MobileApp\MobileApp.csproj;x86
